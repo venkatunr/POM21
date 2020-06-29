@@ -14,6 +14,7 @@ import java.util.TreeMap;
 public class Practice10to20 {
 	
 	public static void main(String[] args) {
+		foefshdjhljg ljhyu
 
 
 		//			  Set<Character> dup=new TreeSet<Character>();
